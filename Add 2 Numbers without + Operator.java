@@ -16,3 +16,6 @@ class Main{
         System.out.println("The Answer is \t"+ a);
     }
 }
+
+// ^ ====> Add witout Carry
+// & ==> To find the Remaining
