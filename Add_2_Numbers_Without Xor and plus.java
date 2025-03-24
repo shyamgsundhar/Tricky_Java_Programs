@@ -1,4 +1,4 @@
-class Main {
+class Add_2_Numbers_Without_Xor_and_plus {
 	public static void main(String s[]) {
 		int a=10,b=15;
 		while(b>0) {

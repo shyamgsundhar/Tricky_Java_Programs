@@ -1,4 +1,4 @@
-class Main {
+class subtract2numbs_without_using_XOR {
 	public static void main(String s[]) {
 		int a=15,b=30;
 		while(b<0) {
